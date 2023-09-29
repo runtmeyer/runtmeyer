@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @runtmeyer
 - 👀 I’m interested in building things
-- 🌱 I’m currently learning datascience and django
+- 🌱 
 - 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me on email @muobotone@gmail.com
 
